@@ -1,0 +1,21 @@
+body {
+    font-size: 30px;
+    background-image: url('seriy-fon.jpg');
+    background-size: cover;
+}
+
+a {
+    color: rgb(255, 0, 0);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+h3 {
+    color: rgb(55, 0, 255);
+}
+
+ul {
+    color: rgb(255, 0, 0);
+}
